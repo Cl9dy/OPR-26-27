@@ -1,3 +1,4 @@
 # OPR-26-27
 
-Autor - Maj
+Avtor - Maj
+Razred 3.ra
